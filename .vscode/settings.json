@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "xiosbase": "cpp",
+    "xstring": "cpp",
+    "string": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "xlocnum": "cpp",
+    "xtr1common": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
