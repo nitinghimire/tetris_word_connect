@@ -13,7 +13,9 @@ Word Tetris is a word-building puzzle game inspired by the classic Tetris mechan
 ## Screenshots
 | Stacking Example | Another Stacking Example |
 |------------------|-------------------------|
-| ![Stacking](stacking.png) | ![Stacking 2](stacking2.png) |
+| ![Stacking](![image](https://github.com/user-attachments/assets/81cd8917-86f4-438d-a5c3-63607b0dd28b)
+) | ![Stacking 2](![image](https://github.com/user-attachments/assets/895048d7-eec4-44ce-8495-1e7489aed50b)
+) |
 
 ## Installation & Running
 ### Prerequisites
@@ -25,24 +27,29 @@ Word Tetris is a word-building puzzle game inspired by the classic Tetris mechan
    ```sh
    git clone https://github.com/yourusername/word-tetris.git
    cd word-tetris
-Compile the code:
-sh
-Copy
-Edit
-g++ -std=c++17 -o word_tetris main.cpp -lSDL2 -lSDL2_image -lSDL2_mixer
-Run the game:
-sh
+   ```
+## Compile the code:
+ ```sh
+   Copy
+   Edit
+   g++ -std=c++17 -o word_tetris main.cpp -lSDL2 -lSDL2_image -lSDL2_mixer
+```
+## Run the game:
+```sh
 Copy
 Edit
 ./word_tetris
-Controls
+```
+
+## Controls
 Arrow Keys: Move the falling blocks left, right, and down.
 Spacebar: Pause/resume the background music.
 Future Improvements
 ✅ Implement word validation for dynamic scoring.
 ✅ Add more difficulty levels and dynamic grid scaling.
 ✅ Improve UI elements and animations.
-Credits
+
+## Credits
 Developed by:
 
 Nitin Ghimire
